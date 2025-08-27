@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Afolabi, and I have 8+ years of hands-on automation experience, designing, developing, maintaining, and enhancing automation frameworks. I helped establish sustainable QA automation processes adopted across multiple business units. This included framework setup, database configuration, test data generation, API test automation, automated script maintenance, and reporting dashboards for stakeholders. 
+
+- 🔭 I’m currently working on [DevOps Roadmap](https://devopsroadmap.io/getting-started/), a dynamic learning resource for advancing my careers as DevOps engineers through a structured curriculum and hands-on projects.
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+
 <!--
 **fola2unde/fola2unde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
